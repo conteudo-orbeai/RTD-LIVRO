@@ -12,6 +12,7 @@ Todo o conteúdo que vai aqui onde está este texto, aparece na página principa
    usage
    api
    
+   
 .. toctree::
    :caption: PANDAS
    :maxdepth: 1
