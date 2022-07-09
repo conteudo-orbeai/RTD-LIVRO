@@ -1,6 +1,8 @@
 Bem-vindo ao RTD !
 ****
 
+Todo o conteúdo que vai aqui onde está este texto, aparece na página principal.
+
 .. toctree::
    :caption: PYTHON
    :maxdepth: 1
