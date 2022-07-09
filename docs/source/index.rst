@@ -5,6 +5,6 @@ Bem-vindo ao RTD !
    :caption: PRIMEIRA PAGINA
    :maxdepth: 1
 
-   primeira_pagina
+   primeira_pagina.rst
    usage
    api
