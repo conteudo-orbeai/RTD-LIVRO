@@ -1,12 +1,45 @@
 Título
 ======
 
+Para criar um título do tópico, basta escrecer o nome do título/tópico e vários sinais de iguais debaixo dele até o final do nomedotítulo.
+
+
 PRIMEIRO TÓPICO
 ---------------
 
-Loren Ipsun.
+Para criar um tópico na página (que já é referenciado no menu da barra lateral), basta escrever o nome do tópico e debaixo dele um monte de traços até o final do nome do tópico.
+Obs: no teclado Apple, estes traços são a tecla (sem apertar SHIFT) do lado direito do ZERO e antes do sinal de igual.
 
 
-SEGUNDO TÓPICO
---------------
+Inserir código Python
+----------------------
+
+Para inserir código Python, basta usar o code-block desta forma:
+
+.. code-block:: console
+
+  $ pip install streamlit
+  
+.. code-block:: python
+  :linenos:
+  :emphasize-lines: 3,5
+  
+  def some_function( ):
+    i = False
+    print('Esta é uma linha destacada')
+    print('Esta não é uma linha destacada')
+    print('já esta linha é destacada')
+    
+Fazer um glossário
+------------------
+
+Para fazer um glossário, basta usar o termo .. glossary:: desta forma:
+
+.. glossary::
+
+  Documentação
+    Provê para os usuários, todos os comantos que precisa.
+    
+  Leitura
+    A leitura deve ser rápida e clara.
 
