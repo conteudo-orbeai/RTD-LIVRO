@@ -1,7 +1,12 @@
-Bem-vindo ao RTD !
-****
+.. image:: images/logo/logo_orbe_fundo1.png
+   :align: center
+   :width: 600
+   
+___________________________________________
 
-Todo o conteúdo que vai aqui onde está este texto, aparece na página principal.
+
+Material de referência rápida para estudos.
+--------
 
 .. toctree::
    :caption: PYTHON
