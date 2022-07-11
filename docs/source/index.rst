@@ -10,7 +10,7 @@ Material de referência rápida para estudos.
 
 
 .. toctree::
-   :caption: READ THE DOCS ORBE.AI
+   :caption: READ THE DOCS ORBEAI
    :maxdepth: 1
    
    configuracoes_rtd_orbeai.rst
