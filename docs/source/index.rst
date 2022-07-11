@@ -8,6 +8,13 @@ ___________________________________________
 Material de referência rápida para estudos.
 --------
 
+
+.. toctree::
+   :caption: READ THE DOCS ORBE.AI
+   :maxdepth: 1
+   
+   configuracoes_rtd_orbeai.rst
+
 .. toctree::
    :caption: PYTHON
    :maxdepth: 1
