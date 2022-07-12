@@ -6,8 +6,6 @@ Orbe.ai
    :width: 600
 ___________________________________________
 
-Material de referência rápida para estudos.
-
 .. contents:: Conteúdos
 
 .. toctree::
