@@ -29,4 +29,4 @@ Material de referência rápida para estudos.
    :caption: PANDAS
    :maxdepth: 1
    
-   PANDAS/conteudo_Pandas.rst
+   PANDAS/conteudo_pandas.rst
