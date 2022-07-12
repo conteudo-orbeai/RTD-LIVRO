@@ -9,21 +9,41 @@ Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ip
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
+
+.. topic:: Título do tópico
+
+   Este é o texto que vai no tópico.
+   Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
+
 1.1.1 - Subseção do documento
 -----------------------------
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
+.. topic:: Título do tópico
+
+   Este é o texto que vai no tópico.
+   Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
 1.1.1.1 - SubSubSeção do documento
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
+.. topic:: Título do tópico
+
+   Este é o texto que vai no tópico.
+   Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
+
 1.1.1.1.1 - Parágrafo do documento
 """"""""""""""""""""""""""""""""""
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
+
+.. topic:: Título do tópico
+
+   Este é o texto que vai no tópico.
+   Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
 
 *********
@@ -55,12 +75,6 @@ Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ip
 
 
 
-
-
-Para criar um tópico na página (que já é referenciado no menu da barra lateral), basta escrever o nome do tópico e debaixo dele um monte de traços até o final do nome do tópico.
-Obs: no teclado Apple, estes traços são a tecla (sem apertar SHIFT) do lado direito do ZERO e antes do sinal de igual.
-
-Como fazer subtópicos? Acho que é ==== para tópico e ------- para subtópico.
 
 .. topic:: Título do tópico
 
