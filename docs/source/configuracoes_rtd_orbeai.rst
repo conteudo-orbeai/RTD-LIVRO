@@ -95,13 +95,19 @@ Sidebar
 Inserir código Python
 *********************
 
+Código do terminal
+==================
+
 Para inserir código como se fosse o terminal, basta usar o code-block desta forma:
 
 .. code-block:: console
 
   $ pip install streamlit
   
-Para inserir código Python com número das linhas e destaque de algumaslinhas, basta usar o code-block desta forma:
+Código Python
+-------------
+
+Para inserir código Python com número das linhas e destaque de algumas linhas, basta usar o code-block desta forma:
 
 .. code-block:: python
   :linenos:
@@ -113,8 +119,9 @@ Para inserir código Python com número das linhas e destaque de algumaslinhas, 
     print('Esta não é uma linha destacada')
     print('já esta linha é destacada')
     
+******************
 Fazer um glossário
-------------------
+******************
 
 Para fazer um glossário, basta usar o termo .. glossary:: desta forma:
 
@@ -126,8 +133,10 @@ Para fazer um glossário, basta usar o termo .. glossary:: desta forma:
   Leitura
     A leitura deve ser rápida e clara.
     
+    
+**********   
 Hiperlinks
-----------
+**********
 
 Para criar hiperlinks que levem para outro site, usamos esta sintaxe (onde ..Python: é onde usuário pode clicar para ir para o site.
 
@@ -135,12 +144,13 @@ Este é o link "Python_"
 
 .. _Python: http://www.python.org/
 
+*******
 Figuras
--------
+*******
 
-
+*****************
 Campos de atenção
------------------
+*****************
 
 .. Attention:: Directives at large.
 
