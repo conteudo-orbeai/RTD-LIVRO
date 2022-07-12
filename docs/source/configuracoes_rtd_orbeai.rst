@@ -50,6 +50,7 @@ Hiperlinks
 
 Para criar hiperlinks que levem para outro site, usamos esta sintaxe (onde ..Python: é onde usuário pode clicar para ir para o site.
 
-Este é o link "Python_"/
+Este é o link "Python_"
+
 .. Python: http://www.python.org/
 
