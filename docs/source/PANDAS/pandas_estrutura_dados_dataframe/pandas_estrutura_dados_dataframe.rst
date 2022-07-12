@@ -9,6 +9,9 @@ ipsun.Loren ipsun.Loren ipsun.
 1.1 - O que é DataFrame
 =======================
 
+.. figure:: imagem/pandas_dataframe.png
+   :align: center
+
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren
 ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren
 ipsun.Loren ipsun.Loren ipsun.
