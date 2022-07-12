@@ -4,7 +4,6 @@
 ___________________________________________
 
 Material de referência rápida para estudos.
---------
 
 .. contents:: Conteúdos
 
