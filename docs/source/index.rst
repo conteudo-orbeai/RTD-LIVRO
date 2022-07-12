@@ -8,6 +8,8 @@ ___________________________________________
 Material de referência rápida para estudos.
 --------
 
+.. contents:: Table of Contents
+
 
 .. toctree::
    :caption: READ THE DOCS ORBEAI
