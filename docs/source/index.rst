@@ -18,7 +18,7 @@ ___________________________________________
    :caption: PYTHON
    :maxdepth: 1
    
-   PYTHON/python_intruducao/python_intruducao.rst
+   PYTHON/python_introducao/python_introducao.rst
    PYTHON/python_google_colab/python_google_colab.rst
    PYTHON/python_variaveis/python_variaveis.rst
    PYTHON/python_tipos_de_dados/python_tipos_de_dados.rst
