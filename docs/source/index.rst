@@ -1,15 +1,12 @@
 .. image:: images/logo/logo_orbe_fundo1.png
    :align: center
    :width: 600
-   
 ___________________________________________
-
 
 Material de referência rápida para estudos.
 --------
 
-.. contents:: Table of Contents
-
+.. contents:: Conteúdos
 
 .. toctree::
    :caption: READ THE DOCS ORBEAI
