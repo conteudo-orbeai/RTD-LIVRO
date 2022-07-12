@@ -20,12 +20,6 @@ Material de referência rápida para estudos.
 .. toctree::
    :caption: PYTHON
    :maxdepth: 1
-
-   primeira_pagina.rst
-   python_introducao.rst
-   usage
-   api
-   
    
 .. toctree::
    :caption: PANDAS
