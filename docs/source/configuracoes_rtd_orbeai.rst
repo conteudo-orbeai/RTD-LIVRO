@@ -62,26 +62,23 @@ Subseção do documento
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
-
 SubSubSeção do documento
-ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
 Parágrafo do documento
-"""""""""""""""""""""
+""""""""""""""""""""""
 
 Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
-
-
-
 
 .. topic:: Título do tópico
 
    Este é o texto que vai no tópico.
-   
+  
+*******  
 Sidebar
--------
+*******
 
 .. sidebar:: Sidebar Title
    :subtitle: Optional Subtitle
@@ -94,9 +91,9 @@ Sidebar
    Sidebars often appears beside the main text with a border and
    background color.
 
-
+*********************
 Inserir código Python
-----------------------
+*********************
 
 Para inserir código como se fosse o terminal, basta usar o code-block desta forma:
 
