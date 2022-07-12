@@ -1,8 +1,6 @@
 **************************************
-PANDAS - Python para análise de dados.
+Análise de dados.
 **************************************
-
-.. contents:: Table of Contents
 
 O que é um dataFrame
 ====================
