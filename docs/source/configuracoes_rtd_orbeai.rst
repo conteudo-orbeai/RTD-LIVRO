@@ -52,5 +52,5 @@ Para criar hiperlinks que levem para outro site, usamos esta sintaxe (onde ..Pyt
 
 Este é o link "Python_"
 
-.. Python: http://www.python.org/
+.. _Python: http://www.python.org/
 
