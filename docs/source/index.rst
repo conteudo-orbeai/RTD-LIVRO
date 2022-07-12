@@ -25,6 +25,6 @@ Material de referência rápida para estudos.
    :caption: PANDAS
    :maxdepth: 1
    
-   PANDAS/pandas_introducao.rst
+   PANDAS/pandas_introducao/pandas_introducao.rst
    PANDAS/pandas_dataframe/pandas_dataframe.rst
 
