@@ -18,6 +18,17 @@ ___________________________________________
    :caption: PYTHON
    :maxdepth: 1
    
+   PYTHON/python_intruducao.rst
+   PYTHON/python_google_colab.rst
+   PYTHON/python_variaveis.rst
+   PYTHON/python_tipos_de_dados.rst
+   PYTHON/python_estruturas_de_dados.rst
+   PYTHON/python_estrutura_de_condicao.rst
+   PYTHON/python_estruturas_de_repeticao.rst
+   PYTHON/python_funcao.rst
+   PYTHON/python_tratamento_erros.rst
+   PYTHON/python_programacao_orientada_objetos.rst
+   
 .. toctree::
    :caption: PANDAS
    :maxdepth: 1
