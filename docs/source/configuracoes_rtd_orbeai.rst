@@ -119,9 +119,9 @@ Para inserir código Python com número das linhas e destaque de algumas linhas,
     print('Esta não é uma linha destacada')
     print('já esta linha é destacada')
     
-******************
-Fazer um glossário
-******************
+*********
+Glossário
+*********
 
 Para fazer um glossário, basta usar o termo .. glossary:: desta forma:
 
@@ -147,6 +147,8 @@ Este é o link "Python_"
 *******
 Figuras
 *******
+
+Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.Loren ipsun.
 
 *****************
 Campos de atenção
