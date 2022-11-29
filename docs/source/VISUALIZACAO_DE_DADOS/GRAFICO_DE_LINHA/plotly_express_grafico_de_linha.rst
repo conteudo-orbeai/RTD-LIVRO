@@ -35,7 +35,8 @@ Gráfico de linhas
 ----
 
 • Usaremos dados dos preços da bolsa de valores para construir um gráfico de linha e **mostrar a evolução do preço das ações ao longo do tempo**.
-• Você pode encontrar os dados no site do [Yahoo finanças](https://br.financas.yahoo.com/).
+• Você pode encontrar os dados no site do Yahoo finanças_
+.. _Yahoo finanças: https://br.financas.yahoo.com/
 • Criando um *DataFrame* com os dados dos preços da bolsa de valores. Neste caso, escolhemos os dados da ação da Petrobrás (PETR4).
 
 .. code-block:: python
