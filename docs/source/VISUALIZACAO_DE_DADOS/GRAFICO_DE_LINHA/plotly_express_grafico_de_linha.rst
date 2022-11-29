@@ -1,7 +1,7 @@
 Gráfico de linhas
 ****
 
-01.Quando usar um gráfico de linhas
+01.QUANDO USAR UM GRÁFICO DE LINHAS
 =====
 
 •	Usamos o gráfico de linhas **para visualizar dados de algo que acontece ao decorrer do tempo**.
@@ -74,7 +74,7 @@ Gráfico de linhas
 
 .. image:: PLOTLY_EXPRESS_FIGURE_GRAFICO_LINHAS.png
    :align: center
-   :width: 350
+   :width: 400
    
 04.b.Construindo o gráfico de linhas
 ----
