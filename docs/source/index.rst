@@ -35,4 +35,11 @@ ___________________________________________
    
    PANDAS/pandas_introducao/pandas_introducao.rst
    PANDAS/pandas_dataframe/pandas_dataframe.rst
+   
+.. toctree::
+   :caption: VISUALIZAÇÃO DE DADOS
+   :maxdepth: 1
+   
+   VISUALIZACAO_DE_DADOS/GRAFICO_DE_LINHA/plotly_express_grafico_de_linha.rst
+
 
