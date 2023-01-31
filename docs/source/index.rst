@@ -42,4 +42,8 @@ ___________________________________________
    
    VISUALIZACAO_DE_DADOS/GRAFICO_DE_LINHA/plotly_express_grafico_de_linha.rst
 
-
+.. toctree::
+   :caption: ANÁLISE DE DADOS
+   :maxdepth: 1
+   
+   VISUALIZACAO_DE_DADOS/GRAFICO_DE_LINHA/plotly_express_grafico_de_linha.rst
